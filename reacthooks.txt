@@ -1,0 +1,1 @@
+React is a Single Page Application.
